@@ -16,3 +16,8 @@ Este projeto tem como objetivo o estudo das animações no react native, partind
 - [React Native Gesture Handler](https://kmagiera.github.io/react-native-gesture-handler/) - Uma API que permite a manipulação de gestos e toques no React Native;
 
 
+### Créditos
+
+- [Diego Fernandes](https://github.com/diego3g) - CTO na [Rocketseat](https://rocketseat.com.br/) e um excelente instrutor. Recomendadíssimo!
+
+- [Clonando interface do Nubank](https://www.youtube.com/watch?v=DDm0M_rZLJo) - Vídeo explicativo, com excelente conteúdo e muito bem elaborado. (com Diego Fernandes)
