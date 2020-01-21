@@ -15,6 +15,11 @@ Este projeto tem como objetivo o estudo das animações no react native, partind
 - [React Native](http://facebook.github.io/react-native/) - Um framework para o desenvolvimento de aplicações mobile usando Javascript + React;
 - [React Native Gesture Handler](https://kmagiera.github.io/react-native-gesture-handler/) - Uma API que permite a manipulação de gestos e toques no React Native;
 
+### Como ficou
+
+<p>
+  <img src="https://i.imgur.com/fS1RjbG.gif" alt="nubank_clone" width="180">
+</p>
 
 ### Créditos
 
